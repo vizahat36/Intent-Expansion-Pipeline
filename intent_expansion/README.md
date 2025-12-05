@@ -36,6 +36,8 @@ The Intent Expansion Pipeline was designed to produce three major outcomes:
 
 **WORKFLOW ARCHITECTURE DIAGRAM (TEXT DIAGRAM)**
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/63dd7033-a96d-4df8-919b-be8bfd7c9e2c" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/10478898-b780-41ae-901f-23b95e56040f" />
 
 
                      ┌────────────────────────┐
@@ -122,6 +124,9 @@ Write final output → `intent_suggestions.json`
   ▼
 END
 
+<img width="1024" height="1536" alt="ChatGPT Image Dec 5, 2025, 08_25_29 PM" src="https://github.com/user-attachments/assets/70c71a01-30ef-46b6-939f-e1a6bfcd28aa" />
+
+
 **SUMMARY OF FINDINGS**
 
 Two high-value intents emerged from the clustering analysis:
@@ -170,9 +175,10 @@ The signals strongly justify elevating these as new system intents.
 
 Place the two screenshots from the project here. The files were saved in `output/` during execution. If you want the images embedded in the README, save them in `intent_expansion/output/` and update the filenames below.
 
-![Execution Screenshot 1](output/screenshot_1.png)
 
-![Execution Screenshot 2](output/screenshot_2.png)
+<img width="872" height="499" alt="image" src="https://github.com/user-attachments/assets/e8cb188a-35c2-4e8e-a46d-ed1d89db88e2" />
+<img width="880" height="665" alt="image" src="https://github.com/user-attachments/assets/e5ac3232-5727-466a-a934-a507def43318" />
+
 
 **WHY THESE INTENTS IMPROVE THE SYSTEM**
 
