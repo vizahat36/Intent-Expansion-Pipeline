@@ -1,0 +1,442 @@
+[
+  {
+    "cluster_id": 7,
+    "size": 5,
+    "messages": [
+      "Best for oily skin",
+      "Oil skin",
+      "Is it safe for oily scalp?",
+      "Is it better for oil scalp ?",
+      "Oily skin"
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "size": 16,
+    "messages": [
+      "How to track order?",
+      "How to track order?",
+      "How to track order",
+      "How to track order?",
+      "How to track order?",
+      "How to track order ?",
+      "How to track order?",
+      "Help me track order",
+      "How to track order?",
+      "Help me track order",
+      "How to track order?",
+      "How to track order?",
+      "Help me track order",
+      "How to track order?",
+      "Help me track order",
+      "Help me track order"
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "size": 15,
+    "messages": [
+      "Mera order confirm ho gaya hai",
+      "Hindi language",
+      "Ye bal kale krenge agar kuchh bal safed ho gye hai to 17- 18 ki age me",
+      "Me boy hu meri age 23 hai",
+      "Mam yahi sab bolte hai sab acha hoga par nahi hota hai",
+      "Use kese karte hain",
+      "Hindi me batao",
+      "Di ye ak bar lea the to kuch fayda nahi hua tha",
+      "Side effect nahi hai na",
+      "Aap Hindi mein bolo mujhe English mein kuchh nahin samajh a raha hai",
+      "Pament&&Jada dhikha raha h",
+      "Hindi please",
+      "Mujhe English nahin aati Hindi mein bolo",
+      "Review dal diya hun ....",
+      "Smj nhi aya ek bar pls btaye"
+    ]
+  },
+  {
+    "cluster_id": 0,
+    "size": 5,
+    "messages": [
+      "Others details",
+      "I asked about quantity",
+      "This is not proper answer",
+      "do your team consult",
+      "Replace or exchange product"
+    ]
+  },
+  {
+    "cluster_id": 24,
+    "size": 8,
+    "messages": [
+      "What's special about it? Ultra Smoothing Shampoo for Smooth & Shiny Hair- 250ml",
+      "Which one is the best shampoo for dandruff and why",
+      "What's special about it? Anti Dandruff Shampoo with Salicylic Acid & Biotin- 250ml",
+      "How to use dandruff shampoo",
+      "Is the shampoo fopd for daily use",
+      "How to use it in daily routine? Anti Dandruff Shampoo with Salicylic Acid & Biotin- 250ml",
+      "I am using this spray with bare anatomy anti dandruff shampoo and conditioner, bare anatomy ultra smoothening hair mask and serum. Is this a good hair care routine?",
+      "What's special about it? Hair Fall Control Shampoo with Peptides"
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "size": 9,
+    "messages": [
+      "Add to cart - Rosemary & Rice Water Hair Growth Spray",
+      "What's special about it? Rosemary & Rice Water Hair Growth Spray",
+      "How to use it in daily routine? Rosemary & Rice Water Hair Growth Spray",
+      "How to use it in daily routine? Rosemary & Rice Water Hair Growth Spray",
+      "How to use it in daily routine? Ultimate Hair Growth Combo: Rice Water Spray + Rosemary Oil",
+      "Can I use it daily? Advanced Hair Growth Serum with Redensyl, Rosemary, Rice Water (30 ml)",
+      "Can I use it daily? Advanced Hair Growth Serum with Redensyl, Rosemary, Rice Water (30 ml)",
+      "What's special about it? Rosemary & Rice Water Hair Growth Spray",
+      "What's special about it? Rosemary & Rice Water Hair Growth Spray - 200 ml | Pack of 2"
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "size": 5,
+    "messages": [
+      "Seee results",
+      "Pigem ation  cream",
+      "What about open porse?",
+      "Give me offical amozon link",
+      "Link do muje &&Thank you"
+    ]
+  },
+  {
+    "cluster_id": 33,
+    "size": 3,
+    "messages": [
+      "When the order will be shipped",
+      "I didn’t place. Planning to order body wash. Need to know exact delivery date",
+      "When is my order there is no update on delivery date"
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "size": 10,
+    "messages": [
+      "What's special about it? Underarm Roll On for Odour Control & Pigmentation",
+      "Which facewash is good for brighter face",
+      "So body wash can't reduce darkness? From body part",
+      "Body scrub for dry skin",
+      "What's special about it? Salicylic Acid Face Wash for Acne & Oil Control- 100ml",
+      "What's special about it? Under Eye Cream for Dark Circles Removal & Wrinkles - 15g",
+      "What’s special about it? Exfoliating Body Wash with Lactic Acid - 236 ml",
+      "How to use it? Exfoliating Body Wash with Lactic Acid - 236 ml",
+      "Face wash",
+      "Full body cleanse"
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "size": 4,
+    "messages": [
+      "Shampoo of 3124677",
+      "Any basic shampoos available in market ?",
+      "When this shampoo doesn't work..what will we do?",
+      "Hey I want customized shampoo"
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "size": 4,
+    "messages": [
+      "What's your best product?",
+      "My lips like in two tone give me your best product",
+      "What's your best product?",
+      "It's fake 🤥 nothing it's work i have used lots of products"
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "size": 7,
+    "messages": [
+      "My hair fall were not stop",
+      "Can you tell me how to used hair fall shampoo",
+      "Did it cause hairfall?",
+      "Will there be any hairfall if I stop",
+      "After using this serum my hair will fall?",
+      "It reduces hair fall",
+      "Tell me for hair fall"
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "size": 6,
+    "messages": [
+      "Before use serum oil can be applied",
+      "How to use it in daily routine? 10% Vitamin C Face Serum for Glowing & Bright Skin - 10ml",
+      "After using serum we can use hair oil after that",
+      "Show the product of hyperpigmentation control serum",
+      "Hair growth serum can be applied over night",
+      "Can I use it after conditioner?"
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "size": 11,
+    "messages": [
+      "My order company name",
+      "where is my order",
+      "Where is my order",
+      "My order 10 delayed",
+      "Why my order are not delivering??? Whats the reason",
+      "I paid for my order If I didn't get my order then give me my refund back",
+      "About my recent order",
+      "How can I return an order?",
+      "My order is not delivered can i cancel it and reorder",
+      "Cancel my order",
+      "If this order will not come means I will order another one so plz support"
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "size": 7,
+    "messages": [
+      "Okay",
+      "Okayy",
+      "Okkk",
+      "Ok ok",
+      "Ok",
+      "Okay",
+      "Ok"
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "size": 5,
+    "messages": [
+      "Main alps  goodness   Rosemary water use abhi kar rehehu par thora bhi farak nehi ho rehi hai",
+      "Salicylic acid ka matlab kya h",
+      "Isko kaise use kare? Rosemary & Rice Water Hair Growth Spray",
+      "Isko kaise use kare? Rosemary & Rice Water Hair Growth Spray",
+      "Isko kaise use kare? Advanced Anti-Grey Serum with Silverfree Peptide, Rosemary, Biotin - 50ml"
+    ]
+  },
+  {
+    "cluster_id": 26,
+    "size": 2,
+    "messages": [
+      "Tamil",
+      "Tamil"
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "size": 7,
+    "messages": [
+      "Ye hairfall rukhne m halp krega",
+      "Anti dandruff how is it Tamil",
+      "Scalp par lagaye to",
+      "Lekin or bhi to produce hai jese ki piliex , aadivasi hear oil",
+      "Dandruff dur hoga???",
+      "Hair fall khatam hoga",
+      "Mughe hair ke oil"
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "size": 5,
+    "messages": [
+      "Please 🥺 xxxxxxxxxx x",
+      "Send me code",
+      "I'm already send the number",
+      "I love you 😽",
+      "Yes please"
+    ]
+  },
+  {
+    "cluster_id": 34,
+    "size": 2,
+    "messages": [
+      "Looks like it’s cheap one",
+      "Isn't it rupees 10"
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "size": 3,
+    "messages": [
+      "Sampu 1 ya 2",
+      "Kitne din me delevery ho jayega",
+      "Sale kab se start h"
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "size": 3,
+    "messages": [
+      "What's special about it? AHA Body Lotion with Niacinamide & Shea Butter",
+      "Add to cart - AHA Body Lotion with Niacinamide & Shea Butter",
+      "What's special about it? 5% Niacinamide Sunscreen Body Lotion SPF 50+ PA ++++ (200ml)"
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "size": 4,
+    "messages": [
+      "Hi",
+      "Hello",
+      "Hi",
+      "Hii"
+    ]
+  },
+  {
+    "cluster_id": 32,
+    "size": 3,
+    "messages": [
+      "rohanvijay990@gmail.com 9380163998",
+      "sanjaymahesh962@gmail.com",
+      "Salonipuri2345@gmail.com"
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "size": 5,
+    "messages": [
+      "Ha",
+      "Helo",
+      "Boio",
+      "H",
+      "Hy"
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "size": 6,
+    "messages": [
+      "2-3 times is good for hair growth",
+      "Does it work for bald patches? Advanced Hair Growth Serum with Redensyl, Rosemary, Rice Water (30 ml)",
+      "Suggest something for hair growth?",
+      "My age is 24 I have white hair...so I dye my hair with black rose mehndi ..once a months..and use oil..of kadipata, and hisbiscus flower home made",
+      "does Rosemary and hibiscus hair oil can cure baldness and can promote baby hair growth",
+      "Suggest something for hair growth?"
+    ]
+  },
+  {
+    "cluster_id": 37,
+    "size": 2,
+    "messages": [
+      "Hi mam",
+      "Yes mam"
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "size": 3,
+    "messages": [
+      "How to use",
+      "How to apply this..?",
+      "So yeah! How will i apply both these shamboos the same day?"
+    ]
+  },
+  {
+    "cluster_id": 31,
+    "size": 2,
+    "messages": [
+      "Age 10 year h koi side effects",
+      "To serum se koi side effects to nhi"
+    ]
+  },
+  {
+    "cluster_id": 38,
+    "size": 7,
+    "messages": [
+      "9940098250",
+      "3235368 &&order id",
+      "Customer care number",
+      "8015455478",
+      "3235062",
+      "30226814",
+      "3162371"
+    ]
+  },
+  {
+    "cluster_id": 35,
+    "size": 3,
+    "messages": [
+      "What's special about it? Natural Lip Balm for Chapped & Pigmented Lips | SPF 50 PA++++ & Kojic Acid",
+      "What's special about it? Cherry Lip Balm for Chapped & Pigmented Lips | SPF 50 PA++++ & Kojic Acid",
+      "How to use it in daily routine? Natural Lip Balm for Chapped & Pigmented Lips | SPF 50 PA++++ & Kojic Acid"
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "size": 4,
+    "messages": [
+      "No",
+      "Yes",
+      "Yes",
+      "Yes"
+    ]
+  },
+  {
+    "cluster_id": 21,
+    "size": 2,
+    "messages": [
+      "Is my amount refunded already",
+      "Refund process"
+    ]
+  },
+  {
+    "cluster_id": 30,
+    "size": 2,
+    "messages": [
+      "This can use for me ?",
+      "Can I use"
+    ]
+  },
+  {
+    "cluster_id": 36,
+    "size": 2,
+    "messages": [
+      "It is showing untraceable",
+      "If so then why is it not visible to me in my history"
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "size": 2,
+    "messages": [
+      "Ok thank u",
+      "Ok thankyou"
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "size": 3,
+    "messages": [
+      "Is this is approved by dermatologist",
+      "Does it contain harmful chenicals",
+      "All ingredients"
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "size": 2,
+    "messages": [
+      "RTO means",
+      "RTO in transit my order why"
+    ]
+  },
+  {
+    "cluster_id": 39,
+    "size": 4,
+    "messages": [
+      "How long for visible results?",
+      "How long for visible results?",
+      "How long for visible results?",
+      "In how many days results will show up"
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "size": 2,
+    "messages": [
+      "time",
+      "Both use same time"
+    ]
+  }
+]
